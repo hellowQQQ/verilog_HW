@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at debounce.v(16): always construct contains both blocking and non-blocking assignments File: D:/home/wenyang/FPGA/pratice/test2/debounce.v Line: 16
+Warning (10268): Verilog HDL information at f_bulbb.v(76): always construct contains both blocking and non-blocking assignments File: D:/home/wenyang/FPGA/pratice/test2/f_bulbb.v Line: 76

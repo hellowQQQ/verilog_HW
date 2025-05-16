@@ -1,0 +1,37 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ledo[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ledo[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ledo[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ledo[3]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rstn",
+					"strict" : false
+				},
+				{
+					"name" : "but_in",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

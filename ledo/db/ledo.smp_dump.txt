@@ -1,0 +1,16 @@
+
+State Machine - |top|cs
+Name cs.S4 cs.S3 cs.S2 cs.S1 
+cs.S1 0 0 0 0 
+cs.S2 0 0 1 1 
+cs.S3 0 1 0 1 
+cs.S4 1 0 0 1 
+
+State Machine - |top|debounce:debounce|cs
+Name cs.S5 cs.S4 cs.S3 cs.S2 cs.S1 cs.S0 
+cs.S0 0 0 0 0 0 0 
+cs.S1 0 0 0 0 1 1 
+cs.S2 0 0 0 1 0 1 
+cs.S3 0 0 1 0 0 1 
+cs.S4 0 1 0 0 0 1 
+cs.S5 1 0 0 0 0 1 

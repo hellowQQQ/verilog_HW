@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/home/wenyang/FPGA/pratice/test2
+vcount
+Z0 !s110 1745844930
+!i10b 1
+!s100 >2hocPR22Eg2E`86>_fzo1
+Ie0Ki:OXN@CaFdakf@f3oc3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/home/wenyang/FPGA/pratice/TopA
+w1745842607
+8D:/home/wenyang/FPGA/pratice/TopA/count.v
+FD:/home/wenyang/FPGA/pratice/TopA/count.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1745844930.000000
+!s107 D:/home/wenyang/FPGA/pratice/TopA/count.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/home/wenyang/FPGA/pratice/TopA/count.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcount2
+R0
+!i10b 1
+!s100 jZnL`2UDLcJ:hVMJKZZ?S0
+I[eBHEDl]ZA[0]L1S=SKPS2
+R1
+R2
+w1745843027
+8D:/home/wenyang/FPGA/pratice/TopA/count2.v
+FD:/home/wenyang/FPGA/pratice/TopA/count2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/home/wenyang/FPGA/pratice/TopA/count2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/home/wenyang/FPGA/pratice/TopA/count2.v|
+!i113 1
+R5
+R6
+vtb_count
+R0
+!i10b 1
+!s100 [[n4^gWO3=@b[JJ?Y:hi@1
+I0Xfb[]5W7d7d2GXf8^GN91
+R1
+R2
+w1745844920
+8D:/home/wenyang/FPGA/pratice/TopA/tp_count.v
+FD:/home/wenyang/FPGA/pratice/TopA/tp_count.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/home/wenyang/FPGA/pratice/TopA/tp_count.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/home/wenyang/FPGA/pratice/TopA/tp_count.v|
+!i113 1
+R5
+R6
+vTOP
+R0
+!i10b 1
+!s100 iegR9dTRo:MTQW=AdM^0A3
+Iz_B<7dZ]`<=ngZcMLG3GX2
+R1
+R2
+w1745844237
+8D:/home/wenyang/FPGA/pratice/TopA/TOP.v
+FD:/home/wenyang/FPGA/pratice/TopA/TOP.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/home/wenyang/FPGA/pratice/TopA/TOP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/home/wenyang/FPGA/pratice/TopA/TOP.v|
+!i113 1
+R5
+R6
+n@t@o@p

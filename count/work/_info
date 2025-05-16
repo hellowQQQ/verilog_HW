@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/home/wenyang/FPGA/pratice
+vCt
+Z0 !s110 1745572570
+!i10b 1
+!s100 ][Q5nZ?QVL;KPAmEPH]0G2
+Ic@8kMmmzSAenMOoObCHI90
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/home/wenyang/FPGA/pratice/test1
+w1745571181
+8D:\home\wenyang\FPGA\pratice\test1\Ct.v
+FD:\home\wenyang\FPGA\pratice\test1\Ct.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1745572570.000000
+!s107 D:\home\wenyang\FPGA\pratice\test1\Ct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\home\wenyang\FPGA\pratice\test1\Ct.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@ct
+vtp_Ct
+R0
+!i10b 1
+!s100 EaYVAaY7lAA[Mb3mG92D[1
+Ih_lZAi:k@X]Z::NIZ]8m33
+R1
+R2
+w1745572562
+8D:\home\wenyang\FPGA\pratice\test1\tp_Ct.v
+FD:\home\wenyang\FPGA\pratice\test1\tp_Ct.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\home\wenyang\FPGA\pratice\test1\tp_Ct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\home\wenyang\FPGA\pratice\test1\tp_Ct.v|
+!i113 1
+R5
+R6
+ntp_@ct

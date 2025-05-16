@@ -1,0 +1,16 @@
+module top(
+		input 		 clk,
+		input 		 rstn,
+		output [7:0] ledo
+		);
+
+		
+    pio u0 (
+        .clk_clk       (clk  ),       //   clk.clk
+        .ledo_export   (rstn ),   //  ledo.export
+        .reset_reset_n (ledo )  // reset.reset_n
+    );
+
+	
+
+endmodule

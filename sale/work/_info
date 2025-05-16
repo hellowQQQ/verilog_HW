@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/home/wenyang/FPGA/pratice/test2
+vsale
+Z0 !s110 1745760064
+!i10b 1
+!s100 OVWX_nQNo<8T2R3@WU8UV2
+IkaYF]m9_e:W<B3FD9F:HE3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/home/wenyang/FPGA/pratice/work3
+w1745759645
+8D:/home/wenyang/FPGA/pratice/work3/sale.v
+FD:/home/wenyang/FPGA/pratice/work3/sale.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1745760064.000000
+!s107 D:/home/wenyang/FPGA/pratice/work3/sale.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/home/wenyang/FPGA/pratice/work3/sale.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_sale
+R0
+!i10b 1
+!s100 89F_=F@Akg=j[U5eX0`GO3
+IEzM`DOzVig`A9`9RS_[iA1
+R1
+R2
+w1745760058
+8D:/home/wenyang/FPGA/pratice/work3/tb_sale.v
+FD:/home/wenyang/FPGA/pratice/work3/tb_sale.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/home/wenyang/FPGA/pratice/work3/tb_sale.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/home/wenyang/FPGA/pratice/work3/tb_sale.v|
+!i113 1
+R5
+R6
